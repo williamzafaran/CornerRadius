@@ -34,24 +34,32 @@ Apply radius changes to entire groups or drill down to specific sub-selected sha
 
 ---
 ## 😎 Pro version includes:
-•	Pro-Level Radius Locking:
+### •	Pro-Level Radius Locking:
+
 Maintains a constant point-value radius even if a shape is resized, preventing the rounding from "stretching" or distorting.
-<p align="center"><img src="/Assets/Corner Lock.gif" width="100%"></p>
+<p align="center"><img src="/Assets/Corner Lock.gif" width="80%"></p>
 
 
-•	Intelligent Auto-Conversion:
+
+### •	Intelligent Auto-Conversion:
+
 Instantly transforms standard Rectangles, Text Boxes, and Ovals into Rounded Rectangles the moment you apply a radius value.
-<p align="center"><img src="/Assets/Conversion toggles.gif" width="100%"></p>
+<p align="center"><img src="/Assets/Conversion toggles.gif" width="80%"></p>
 
 
-•	Dual UI Access:
+
+### •	Dual UI Access:
+
 Custom "Corner Radius" groups are available on both a dedicated Corner Radius tab and the contextual Shape Format tab.
-<p align="center"><img src="/Assets/Dual UI.png" width="100%"></p>
+<p align="center"><img src="/Assets/Dual UI.png" width="80%"></p>
 
 
-•	Universal Shape Control:
+
+### •	Universal Shape Control:
+
 Enable "Control Other Shapes" to manipulate the primary adjustment handle of any native PowerPoint shape using point-based input.
-<p align="center"><img src="/Assets/Control Shapes.gif" width="100%"></p>
+<p align="center"><img src="/Assets/Control Shapes.gif" width="80%"></p>
+
 
 
 ---
