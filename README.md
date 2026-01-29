@@ -66,8 +66,8 @@ Enable "Control Other Shapes" to manipulate the primary adjustment handle of any
 
 ## Installation
 Download the Free or Pro version from Gumroad:
-- 😎 Pro: https://williamzafaran.gumroad.com/l/CornerRadiusPro
-- 🤑 Free: https://williamzafaran.gumroad.com/l/CornerRadiusFree
+- 😎 [Pro Version](https://williamzafaran.gumroad.com/l/CornerRadiusPro?layout=github)
+- 🤑 [Free Version](https://williamzafaran.gumroad.com/l/CornerRadiusFree?layout=github)
 
 Follow the included installation instructions for your version (add-in installation steps are provided with the download).
 
